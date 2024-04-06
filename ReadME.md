@@ -18,3 +18,8 @@ Nuke deals MUCH more damage than a bomb.
 The boss and you will become more powerful after each time you defeat the boss.
 The boss's max health will increase, but yours would not increase during a game restart.
 You will heal over time.
+
+# To play the demo
+Go to [Trinket-Pygame](https://Trinket.io/pygame)
+
+Copy & Paste the raw code into console. 
