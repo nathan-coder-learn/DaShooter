@@ -1,6 +1,4 @@
 # Welcome to DaShooter!
-
-
 # Control
 1. Press 'W' and 'S' to move the gun.
 2. Press 'space' to shoot
