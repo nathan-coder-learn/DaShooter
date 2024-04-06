@@ -22,4 +22,4 @@ You will heal over time.
 # To play the demo
 Go to [Trinket-Pygame](https://Trinket.io/pygame)
 
-Copy & Paste the raw code into console. 
+Copy & Paste the raw code into console.  [Raw Code](https://raw.githubusercontent.com/nathan-coder-learn/DaShooter/main/Nathan.py)
