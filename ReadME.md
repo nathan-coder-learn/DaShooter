@@ -18,6 +18,6 @@ The boss's max health will increase, but yours would not increase during a game 
 You will heal over time.
 
 # To play the demo
-Go to [Trinket-Pygame](https://Trinket.io/pygame)
-
+Go to [Trinket-Pygame](https://Trinket.io/pygame) #Note:It will be laggy and I recommend copy-and-pasting the raw code into the console to play it to get a better experience
+# To view the code
 Copy & Paste the raw code into console.  [Raw Code](https://raw.githubusercontent.com/nathan-coder-learn/DaShooter/main/Nathan.py)
