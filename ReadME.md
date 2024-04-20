@@ -1,5 +1,7 @@
 # Welcome to DaShooter!
-# Control
+
+# GamePlay
+## Control
 1. Press 'W' and 'S' to move the gun.
 2. Press 'space' to shoot
 3. Press key 'q' or 'e' to change gun type and also automatically shoot at intervals
@@ -8,7 +10,7 @@
 6. Press '3' to launch a bomb (you have limited bombs)
 7. Press '2' to launch a nuke (FAR MORE LIMITED!)
 8. Press 'p' to pause. Recommended for gamers who need to take a toilet break every few minutes hehe.
-# Instruction
+## Instruction
 If you are using manual mode, use your bullets wisely as gun reloading will take place if you run out of bullets.
 Bombs deals more damage than a normal bullet.
 Nuke deals MUCH more damage than a bomb.
@@ -16,14 +18,20 @@ Nuke deals MUCH more damage than a bomb.
 The boss and you will become more powerful after each time you defeat the boss.
 The boss's max health will increase, but yours would not increase during a game restart.
 You will heal over time.
-# Objective
+## Objective
 Your goal is to shoot balls at the target to decrease its health to zero and get as many rebirths as possible.       
-# Enjoyment
+## Enjoyment
 Have fun playing the game and try to improve your accuracy each attempt.
 Experiment with different strategies to defeat the target more efficiently and get more rebirths.
-# Game Over:
+## Game Over:
 Each time the target's health is reduced to zero, you get a rebirth.
 If your health is reduced to zero, the game ends and you get some statistics on how well you did.
+
+## To play the demo
+Go to [Trinket-Pygame](https://Trinket.io/pygame) #Note : It will be laggy and I recommend copy-and-pasting the raw code into the console to play it to get a better experience
+## To view the code
+Copy & Paste the raw code into console.  [Raw Code](https://raw.githubusercontent.com/nathan-coder-learn/DaShooter/main/Nathan.py)
+
 
 # User Stories
 | User Story                                                                                                 | Priority | Completed date  |
@@ -39,7 +47,4 @@ If your health is reduced to zero, the game ends and you get some statistics on 
 | As a player, I want the game to have appealing visuals and audio effects for an enjoyable experience.      | Low      |                 | 
 
 
-# To play the demo
-Go to [Trinket-Pygame](https://Trinket.io/pygame) #Note : It will be laggy and I recommend copy-and-pasting the raw code into the console to play it to get a better experience
-# To view the code
-Copy & Paste the raw code into console.  [Raw Code](https://raw.githubusercontent.com/nathan-coder-learn/DaShooter/main/Nathan.py)
+
