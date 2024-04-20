@@ -1,18 +1,17 @@
 # Welcome to DaShooter!
 DaShooter is a rather decent game where you try to kill a not-so-powerful enemy which gets sronger each time you kill it. This game can range from no-skill to one which requires a lot of skill and timing to strike the target and get better accuracy statistics. This game does not have a working leadorboard.
 
-
 # GamePlay
 ## Control
-1. Press 'W' and 'S' to move the gun.
-2. Press 'space' to shoot
-3. Press 'q' or 'e' to change gun type and also automatically shoot at intervals
-4. Press 'r' to restart
-5. Press 'f' to switch to manual shooting mode ~With future key changes to be made. change accordingly.
-6. Press '3' to launch a bomb (you have limited bombs)
-7. Press '2' to launch a nuke (FAR MORE LIMITED!)
-8. Press 'p' to pause. Recommended for gamers who need to take a toilet break every few minutes hehe.
-9. 
+1. Press 'w' and 's' to move the gun.
+2. Press 'space' to shoot only works for the hardworking who choose to shoot manually.
+3. Press 'q' or 'e' to change gun type and also automatically shoot at intervals for gamers wwho are lazy to continually click to shoot.
+4. Press 'r' to restart if you think you did terribly.
+5. Press 'f' to switch to manual shooting mode for people who focus more on accuracy than dps.
+6. Press 'p' to pause. Recommended for gamers who need to take a toilet break every few minutes.
+7. Press '3' to launch a bomb 😲(you have limited bombs)
+8. Press '2' to launch a nuke 🤯(FAR MORE LIMITED!)
+   
 ## Instruction
 If you are using manual mode, use your bullets wisely as gun reloading will take place if you run out of bullets.
 Bombs deals more damage than a normal bullet.
