@@ -1,31 +1,31 @@
 # Welcome to DaShooter!
-DaShooter is a rather decent game where you try to kill a not-so-powerful enemy which gets sronger each time you kill it. This game can range from no-skill to one which requires a lot of skill and timing to strike the target and get better accuracy statistics. This game does not have a working leadorboard.
+DaShooter is a game where you try to kill an enemy which gets stronger each time you kill it. This game, depending on how you play it, range from relaxing to intense with varying skills required to strike the target for better accuracy statistics. This game does not have a working leaderboard.
 
 # GamePlay
 ## Control
-1. Press 'w' and 's' to move the gun.
-2. Press 'space' to shoot only works for the hardworking who choose to shoot manually.
-3. Press 'q' or 'e' to change gun type and also automatically shoot at intervals for gamers wwho are lazy to continually click to shoot.
-4. Press 'r' to restart if you think you did terribly.
-5. Press 'f' to switch to manual shooting mode for people who focus more on accuracy than dps.
-6. Press 'p' to pause. Recommended for gamers who need to take a toilet break every few minutes.
+1. Press 'W' and 'S' to move the gun.
+2. Press the spacebar to shoot (only works for the hardworking who choose to shoot manually.)
+3. Press 'Q' or 'E' to change gun type and also automatically shoot at intervals for gamers who are too lazy to continuously click to shoot.
+4. Press 'R' to restart if you think you did terribly.
+5. Press 'F' to switch to manual shooting mode for people who focus more on accuracy than damage per second.
+6. Press 'P' to pause. Recommended for gamers who need to take a toilet break every few minutes.
 7. Press '3' to launch a bomb 😲(you have limited bombs)
-8. Press '2' to launch a nuke 🤯(FAR MORE LIMITED!)
+8. Press '2' to launch a nuke 🤯(FAR MORE LIMITED AND DESTRUCTIVE!!!)
    
 ## Instruction
 If you are using manual mode, use your bullets wisely as gun reloading will take place if you run out of bullets.
 Bombs deals more damage than a normal bullet.
 Nuke deals MUCH more damage than a bomb.
 10 bombs give you a nuke.
-The boss and you will become more powerful after each time you defeat the boss.
-The boss's max health will increase, but yours would not increase during a game restart.
+The enemy and you will become more powerful after each time you defeat the boss.
+The enemy's maximum health will increase, but yours would not increase during a game restart (a.k.a rebirth).
 You will heal over time.
 
 ## Objective
-Your goal is to shoot balls at the target to decrease its health to zero and get as many rebirths as possible.   
+Your goal is to shoot bullets at the target to decrease its health to zero and get as many rebirths as possible.   
 
 ## Enjoyment
-Have fun playing the game and try to improve your accuracy each attempt.
+Have fun playing the game and try to improve your accuracy with each attempt.
 Experiment with different strategies to defeat the target more efficiently and get more rebirths.
 
 ## Game Over:
@@ -33,10 +33,10 @@ Each time the target's health is reduced to zero, you get a rebirth.
 If your health is reduced to zero, the game ends and you get some statistics on how well you did.
 
 ## To play the demo
-Go to [Trinket-Pygame](https://Trinket.io/pygame) #Note : It will be laggy and I recommend copy-and-pasting the raw code into the console to play it to get a better experience
+Go to [Trinket-Pygame](https://Trinket.io/pygame) #Note : It will be laggy and I recommend copying and pasting the raw code into the console to play it for a better experience.
 
 ## To view the code
-Copy & Paste the raw code into console.  [Raw Code](https://raw.githubusercontent.com/nathan-coder-learn/DaShooter/main/Nathan.py)
+Copy and paste the raw code into console.  [Raw Code](https://raw.githubusercontent.com/nathan-coder-learn/DaShooter/main/Nathan.py)
 
 
 # User Stories
