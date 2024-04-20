@@ -7,6 +7,7 @@
 5. Press 'f' to switch to manual shooting mode ~With future key changes to be made. change accordingly.
 6. Press '3' to launch a bomb (you have limited bombs)
 7. Press '2' to launch a nuke (FAR MORE LIMITED!)
+8. Press 'p' to pause. Recommended for gamers who need to take a toilet break every few minutes hehe.
 
 # Instruction
 If you are using manual mode, use your bullets wisely as gun reloading will take place if you run out of bullets.
