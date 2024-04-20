@@ -109,7 +109,7 @@ while True:
             elif event.key == pygame.K_s:
                 gunObj.y += 5
 
-    screen.fill(BACKGROUND)
+    screen.fill(BACKGROUND) 
 
     for ballObj in ballList.copy():
         if targetObj.collision_detect(ballObj.x, ballObj.y, damage=ballObj.dmg):
