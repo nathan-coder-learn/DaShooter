@@ -26,7 +26,7 @@ Your goal is to shoot bullets at the target to decrease its health to zero and g
 
 ## Enjoyment
 Have fun playing the game and try to improve your accuracy with each attempt.
-Experiment with different strategies to defeat the target more efficiently and get more rebirths.
+Experiment with different strategies to defeat the target more effectively and get more rebirths.
 
 ## Game Over:
 Each time the target's health is reduced to zero, you get a rebirth.
