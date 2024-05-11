@@ -1,16 +1,22 @@
 # Welcome to DaShooter!
 DaShooter is a game where you try to kill an enemy which gets stronger each time you kill it. This game, depending on how you play it, range from relaxing to intense with varying skills required to strike the target for better accuracy statistics. This game does not have a working leaderboard.
 
-# GamePlay
+# Gameplay
+
 ## Control
 1. Press 'W' and 'S' to move the gun.
 2. Press the spacebar to shoot (only works for the hardworking who choose to shoot manually.)
-3. Press 'Q' or 'E' to change gun type and also automatically shoot at intervals for gamers who are too lazy to continuously click to shoot.
+3. Press 'Q' or 'E' to change gun type and also automatically shoot at intervals for gamers who are too lazy to continuously click to shoot(a.k.a autofire).
 4. Press 'R' to restart if you think you did terribly.
 5. Press 'F' to switch to manual shooting mode for people who focus more on accuracy than damage per second.
 6. Press 'P' to pause. Recommended for gamers who need to take a toilet break every few minutes.
 7. Press '3' to launch a bomb 😲(you have limited bombs)
+   
+![Bomb launch sample](https://media.giphy.com/media/lhpYRmQmDH3VWNIA3l/giphy.gif)
+
 8. Press '2' to launch a nuke 🤯(FAR MORE LIMITED AND DESTRUCTIVE!!!)
+
+![Nuke launch sample](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDB0emRscWdkOW82OXc1Z21ieDV4cGp3bjVkdTF6b2ZpcGRiOW5yZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J6uAS2ePmmRn8k6BND/giphy.gif)
    
 ## Instruction
 If you are using manual mode, use your bullets wisely as gun reloading will take place if you run out of bullets.
@@ -20,6 +26,16 @@ Nuke deals MUCH more damage than a bomb.
 The enemy and you will become more powerful after each time you defeat the boss.
 The enemy's maximum health will increase, but yours would not increase during a game restart (a.k.a rebirth).
 You will heal over time.
+
+## More about autofire
+There are two autofire modes. Machinegun and sniper mode.
+Press 'Q' to activate machinegun mode. Has 100 bullets per magazine and each bullet deals 40 damage.
+
+![Sniper autofire mode](https://media.giphy.com/media/p5bsOPkVGlmQbmf55z/giphy.gif)
+
+Press 'E' to activate sniper mode. Has 10 bullets per magazine and each bullet deals 400 damage.
+
+![Sniper autofire mode](https://media.giphy.com/media/p5bsOPkVGlmQbmf55z/giphy.gif)
 
 ## Objective
 Your goal is to shoot bullets at the target to decrease its health to zero and get as many rebirths as possible.   
