@@ -29,6 +29,7 @@ You will heal over time.
 
 ## More about autofire
 There are two autofire modes. Machinegun and sniper mode.
+
 Press 'Q' to activate machinegun mode. Has 100 bullets per magazine and each bullet deals 40 damage.
 
 ![Machinegun autofire mode](https://media.giphy.com/media/qkziGm1cEEP8WGy27e/giphy.gif)
