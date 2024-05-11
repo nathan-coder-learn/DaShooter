@@ -1,6 +1,10 @@
 # Welcome to DaShooter!
 DaShooter is a game where you try to kill an enemy which gets stronger each time you kill it. This game, depending on how you play it, range from relaxing to intense with varying skills required to strike the target for better accuracy statistics. This game does not have a working leaderboard.
 
+# DaShooter background story
+
+  Once upon a time, a rectangular block (a.k.a. VlahVlahVlah) from the blockiverse came to attack your homeland BlahBlahBlahLand. This block was insanely powerful, and the king of BlahBlahBlahLand(a.k.a King AliBlahBlah IX) decided to you money to buy a gun to help defeat VlahVlahVlah. 
+
 # Gameplay
 
 ## Control
