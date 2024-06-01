@@ -43,7 +43,15 @@ Press 'E' to activate sniper mode. Has 10 bullets per magazine and each bullet d
 ![Sniper autofire mode](https://media.giphy.com/media/p5bsOPkVGlmQbmf55z/giphy.gif)
 
 ## Objective
-Your goal is to shoot bullets at the target to decrease its health to zero and get as many rebirths as possible.   
+Your goal is to shoot bullets at the target to decrease its health to zero and get as many rebirths as possible.
+
+## Scoring 
+
+The formula for the scores are:
+
+(dmg dealt/40000)*(accuracy *0.75):.2f
+
+The reason for this is because accuracy is deemed more important than dmg dealt. So, three quarters of the score is accuracy. dmg dealt is divided by 40000 as a typical person playind DaShooter should be able to get 1 million damage, so it is divided by 10000 to get it to a base of 100. It is then divided by 4 to make it 1 quarter of the score. The ':.2f' is present to round it down to 2 decimal places
 
 ## Enjoyment
 Have fun playing the game and try to improve your accuracy with each attempt.
